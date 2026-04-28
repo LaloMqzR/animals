@@ -32,7 +32,7 @@ class Program
     //crear objeto animal
     Console.WriteLine();
 
-    Perro miPerro = new Perro("Chaneke", 7, "Salchicha");
+    Perro miPerro = new Perro("Logan", 4, "Bullterrier");
     miPerro.MostrarInfo();
     miPerro.HacerSonido();
     miPerro.Buscar();
